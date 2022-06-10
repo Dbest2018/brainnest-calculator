@@ -7,7 +7,7 @@ Run on local machine:
 
 ## Live Site
 
-- [Calculator](https://dbest2018.github.io/rock-paper-scissors/)
+- [Calculator](https://dbest2018.github.io/brainnest-calculator/)
 
 ## Screenshot
 
